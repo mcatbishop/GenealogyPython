@@ -1,10 +1,374 @@
-1	01	Herman	Berry	?	?	?	?	Florence Rigby	?	?	?	
-2	01-01	Herbert Deveere	Berry	NY	1889	~/1973	?	Mary Elizabeth Kelber	Brooklyn,NY	09/04?/1891	1987	../KKelbe/11
-3	01-01-01a	Herbert	Berry	NY	~/1913	~/1985	?	Sally	?	?	?	
-4	01-01-01b	Herbert	Berry	NY	~/1913	~/1985	?	Mary Kelly	Hornell, NY	?		
-5	01-01-01b-01	Kelly	Berry	Brooklyn, NY								
-6	01-01-01b-02	Tommy	Berry	Brooklyn, NY								
-7	01-01-01b-03	Carol	Berry	Brooklyn, NY								
-8	01-01-01b-04	Barbara	Berry	Brooklyn, NY								
-9	01-01-01b-05	Patrick	Berry	Brooklyn, NY								
-10	01-01-02	Catherine Edna	Berry	Canarsy, NY	02/18/1915	?	02/19/36	Thomas William Sheridan	Astoria, NY	05/?/1914	01/12/1993	../SSheri/3
+1	1a	Richard	Bishop	England (Essex ?)	~1605	10 or 12/30/1674	pre 1635	Dulzebella		~/1607	07/23 or 24/1658	
+2	1a-01a	Mary	Bishop	MA	~/1635		04/18/1661	John Barnet (or Barbant)				
+3	1a-01b	Mary	Bishop	MA	~/1635		pre 1680	John Darling				
+4	1a-02	Thomas	Bishop	Manchester, MA	1636	10/15/1694	1639 or 1640	Lidia (or Lydia) Norman	Salem, MA	01/15/1639 or /1640	After 1704	
+5	1a-02-01	Hannah	Bishop	MA	03/14/1661	Manchester, MA	pre 17021686 or 1687	Manning Day				
+6	1a-02-02	Mary	Bishop	MA	08/05/1664			Buseo				
+7	1a-02-03	John	Bishop	Manchester, MA	10/17/1667	?/?/1730	pre 1695	Annah				
+8	1a-02-03-01	Annah	Bishop	Manchester, MA	10/05/1695		04/30/1718	George Wallis				
+9	1a-02-03-02	Rachel	Bishop	Manchester, MA	12/13/1698		11/17/1718	Solomon Driver	Gloucester, MA	~/1684		
+10	1a-02-03-03	Lidiah	Bishop	Manchester, MA	08/08/1701		12/24/1724	Robert Knowlton	Machnester, MA	~1697		
+11	1a-02-03-04	John	Bishop	Manchester, MA	11/22/1703		12/09/1729	Elizabeth Hooper				../HHoope/9
+12	1a-02-03-04-01	John	Bishop	Manchester, MA	09/13/1730	06/15/1785	03/18/1758	Rebeckah Davis		02/22/1732	1831	
+13	1a-02-03-04-01-01a	Isaac Davis	Bishop	Brimfield, MA	12/09/1759	05/19/1846		Patty Peak		~1800		
+331	1a-02-03-04-01-01a-01	Samuel	Bishop		1785	Apr. 1870		Electra Allen Peak				
+347	1a-02-03-04-01-01a-01-01	Samuel	Bishop					Martha E. Adams				
+348	1a-02-03-04-01-01a-01-02	Willard	Bishop									
+349	1a-02-03-04-01-01a-01-03	Caroline	Bishop		02/14/1821			John Roberts				
+350	1a-02-03-04-01-01a-01-04	Abagail	Bishop		11/29/1825			Jerome French				
+351	1a-02-03-04-01-01a-01-04-01	Grace Bishop	French		12/17/1869			Charles Dornbrock				
+332	1a-02-03-04-01-01a-02	John J.	Bishop					Cerissa Catlin				
+360	1a-02-03-04-01-01a-02-01	Isaac	Bishop		1831	1858		Margaret McCurtney				
+361	1a-02-03-04-01-01a-02-01-01	John P.	Bishop		1854			Rosetta Southworth				
+362	1a-02-03-04-01-01a-02-01-01-01	Winnie	Bishop									
+363	1a-02-03-04-01-01a-02-02	Holten	Bishop		1834	1867		Helen Perkins				
+364	1a-02-03-04-01-01a-02-02-01	Archibald Holten	Bishop	Allen, MI.			1884	Rose Riley				
+365	1a-02-03-04-01-01a-02-02-01-01	Riley	Bishop				1911	Rachel Willson 				
+366	1a-02-03-04-01-01a-02-02-01-01-01	Richard	Bishop	Carsland, Alberta Canada	01/08/1913							
+367	1a-02-03-04-01-01a-02-02-01-01-02	Cathrine	Bishop		06/05/1919							
+368	1a-02-03-04-01-01a-02-02-01-01-03	Riley	Bishop		08/01/1825							
+333	1a-02-03-04-01-01a-03	Philo	Bishop									
+334	1a-02-03-04-01-01a-04	Sylvanus	Bishop									
+329	1a-02-03-04-01-01b	Isaac Davis	Bishop	Brimfield, MA	12/09/1759	05/19/1846		Sally Lockwood Catlin				
+335	1a-02-03-04-01-01b-01	Rebecca	Bishop	?	1804			? Judd				
+352	1a-02-03-04-01-01b-01-01	Tom	Judd	?								
+336	1a-02-03-04-01-01b-01-01-01	Anna	Judd	?				Dr. Hull				
+353	1a-02-03-04-01-01b-01-02	Sara	Judd	?								
+354	1a-02-03-04-01-01b-01-03	Fidelia	Judd	?								
+355	1a-02-03-04-01-01b-01-04	Bishop	Judd	?								
+336	1a-02-03-04-01-01b-02	Albert Lockwood	Bishop	Fabius, N.Y.	08/27/1806	07/02/1890	11/26/1829	Mahala Ellis	Mendon, N.Y.	04/12/1810	02/12/1882	
+356	1a-02-03-04-01-01b-02-01	Addison	Bishop		04/28/1832	01/??/1889	1852	Alvina Holcom				
+357	1a-02-03-04-01-01b-02-02	Addis E.	Bishop		05/03/1834	09/12/1836						
+358	1a-02-03-04-01-01b-02-03	Frederick P.	Bishop		03/31/1836	04/??/1915	1861	Maryette Eldren				
+359	1a-02-03-04-01-01b-02-04	Thomas E.	Bishop		05/15/1838	05/??/1916	1862	Mary Graham				
+369	1a-02-03-04-01-01b-02-05	Watson M.	Bishop		06/19/1839	06/19/1920	12/10/1865	Susana Seeley				
+370	1a-02-03-04-01-01b-02-06	Mahala J.	Bishop		07/21/1841	07/??/1905	1864	Galen Johnson Graham				
+371	1a-02-03-04-01-01b-02-07	Nancy Ann	Bishop		01/23/1844	10/??/1923	05/??/1861	Robert Seeley Graham				
+372	1a-02-03-04-01-01b-02-08	Isaac J.	Bishop		10/31/1847		1880	Ellen Keating Graham				
+373	1a-02-03-04-01-01b-02-09	Josepine A.	Bishop		03/05/1851		08/17/1885	Chas Holden Graham				
+374	1a-02-03-04-01-01b-02-10	Oliver E.	Bishop		04/09/1853	12/??/1915	09/??/1883	Ella Fox Graham				
+337	1a-02-03-04-01-01b-03	Isaac	Bishop	?	1808							
+338	1a-02-03-04-01-01b-04	Susan	Bishop	?	1810			DePew				
+339	1a-02-03-04-01-01b-05	Soffira or Sophia	Bishop	?	1815			Kent				
+340	1a-02-03-04-01-01b-06	Jannet	Bishop	?	1817							
+341	1a-02-03-04-01-01b-07	Juliet	Bishop	?	1817			Allison				
+342	1a-02-03-04-01-01b-08	Theodocia or Theodore	Bishop	?	1819							
+343	1a-02-03-04-01-01b-09	Theodorus or Harriete	Bishop	?	1819			Smith				
+344	1a-02-03-04-01-01b-10	Horace	Bishop	?	07/10/1821	10/09/1893	1845	Emmeline Allison				
+345	1a-02-03-04-01-01b-11	Sara	Bishop	?	1824			David Carr				
+14	1a-02-03-04-01-02	Lovicia (or Louisa)	Bishop	Brimfield, MA	03/04/1761							
+15	1a-02-03-04-01-03	Hooper	Bishop	Brimfield, MA	03/23/1763	04/03/1861						
+16	1a-02-03-04-01-04	Sylvanus	Bishop	Brimfield, MA	04/16/1765	06/01/1860	11/02/1792	Rachel Spicer		07/19/1775	11/10/1860	
+17	1a-02-03-04-01-04-01a	John	Bishop	Kinderhook, NY	01/19/1794	04/13/1870	1821	Fannie Clark			09/??/1835	
+18	1a-02-03-04-01-04-01a-01	Marion Clark	Bishop	Oswego, NY	04/04/1822							
+19	1a-02-03-04-01-04-01a-02a	Artemus Clark	Bishop	Oswego, NY	11/04/1823	11/18/1897		Matilda Hanchett		09/09/1823	06/11/1867	
+20	1a-02-03-04-01-04-01a-02a-01	Alfred Morris	Bishop	Pompey, NY	02/29/1848	01/06/1928	02/03/1875	Kittie E. Davis			07/06/1921	
+21	1a-02-03-04-01-04-01a-02a-01-01	Ula	Bishop	Fairfax, MO	10/16/1878	10/18/1878						
+22	1a-02-03-04-01-04-01a-02a-01-02	Eugene Artemus	Bishop	Fairfax, MO	01/07/1880		09/30/1901	Harriet Ethel Porter				
+23	1a-02-03-04-01-04-01a-02a-01-03	Dollie May	Bishop	Fairfax, MO	12/10/1882	07/26/1883						
+24	1a-02-03-04-01-04-01a-02a-01-04	Dor S.	Bishop	Fairfax, MO	12/10/1882	12/11/1921						
+25	1a-02-03-04-01-04-01a-02a-01-05	Ray Alfred	Bishop	Ava, MO	09/22/1885		12/24/1911	Ethel Buchanan				
+26	1a-02-03-04-01-04-01a-02a-01-06	Lottie Eva	Bishop	Ava, MO	11/17/1886		07/27/1912	James Melvin Roberts				
+27	1a-02-03-04-01-04-01a-02a-01-07	Jessie Julia	Bishop	Ava, MO	04/03/1888		12/23/1915	Frank Albert Bower				
+28	1a-02-03-04-01-04-01a-02a-02	Spencer Adelbert	Bishop	OH	09/12/1852	11/23/1914	03/05/1884	Edith Luella Smith		09/09/1860	07/12/1938	
+29	1a-02-03-04-01-04-01a-02a-02-01a	Loren Clark	Bishop	homestead on LaPrele Creek, near old Fort Fetterman WY	03/04/1885	02/20/1961	04/10/1911	Sadie Almeda Greenwood	Lime Springs, Iowa	04/26/1882	04/13/1942	../GGreen/19
+30	1a-02-03-04-01-04-01a-02a-02-01a-01	Loren Emerson	Bishop	Douglas, WY	12/15/1911		09/28/1935	Eleanor Livermore Corbett		04/17/1914		
+31	1a-02-03-04-01-04-01a-02a-02-01a-01-01a	John Clark	Bishop	Cody, WY	07/10/1936		10/23/1962	Letitia Elizabeth Sheridan		02/12/1942		../SSheri/7
+32	1a-02-03-04-01-04-01a-02a-02-01a-01-01a-01	Mary Catherine	Bishop	West Point, NY	01/28/1963			Thomas Demask	Joliet, IL	05/06/1957		../DDemas/15
+33	1a-02-03-04-01-04-01a-02a-02-01a-01-01a-02	Eleanor Claire	Bishop	Bryan, TX	01/06/1964			Dave Stevenson				
+34	1a-02-03-04-01-04-01a-02a-02-01a-01-01a-02-01	Zena Lisa	Stevenson	Red River, NM	04/22/1996							
+311	1a-02-03-04-01-04-01a-02a-02-01a-01-01a-02-02	Hannah Corbett	Stevenson	Red River, NM	12/10/1998							
+35	1a-02-03-04-01-04-01a-02a-02-01a-01-01a-03	John Corbett	Bishop	Bryan, TX	04/21/1965		1990	Deanna Howard				
+36	1a-02-03-04-01-04-01a-02a-02-01a-01-01a-04	Michael Christopher	Bishop	Greenport, NY	11/22/1966		10/31/1994	Kerry Bruce				
+37	1a-02-03-04-01-04-01a-02a-02-01a-01-01b	John Clark	Bishop	Cody, WY	07/10/1936			Shirley Randall				
+38	1a-02-03-04-01-04-01a-02a-02-01a-01-02a	Loren Corbett	Bishop	Douglas, WY	09/03/1940	10/16/1982	08/20/1960	Carol Nowlin				
+39	1a-02-03-04-01-04-01a-02a-02-01a-01-02a-01	Tracy Lynne	Bishop	Ogden, UT	04/03/1961		06/05/1982	Dennis Haver				
+40	1a-02-03-04-01-04-01a-02a-02-01a-01-02a-01-01	Jennifer Bishop	Haver	Southfield, MI	07/08/1988							
+41	1a-02-03-04-01-04-01a-02a-02-01a-01-02a-02	Loren Peter	Bishop	Ogden, UT	06/22/1964							
+42	1a-02-03-04-01-04-01a-02a-02-01a-01-02a-S	Rick	Bishop		~/1957							
+43	1a-02-03-04-01-04-01a-02a-02-01a-01-02b	Loren Corbett	Bishop	Douglas, WY	09/03/1940	10/16/1982	11/13/1976	Ruth Jo Fairwell				
+44	1a-02-03-04-01-04-01a-02a-02-01a-01-02b-01	Spencer Douglas	Bishop	Denver, CO	03/07/1979							
+45	1a-02-03-04-01-04-01a-02a-02-01a-01-02b-02	Stuart Acton	Bishop	Denver, CO	10/29/1981							
+46	1a-02-03-04-01-04-01a-02a-02-01a-01-03	Helen Marymeda	Bishop	Ft. Benning, GA	01/03/1943		08/04/?	Fred Skeen Thompson		?/?/1942		
+47	1a-02-03-04-01-04-01a-02a-02-01a-01-03-01	Erik Fred	Thompson	Ogden, UT	?/?/1972							
+48	1a-02-03-04-01-04-01a-02a-02-01a-01-03-02	Jennifer Raye	Thompson	Ogden, UT	?/?/1974							
+49	1a-02-03-04-01-04-01a-02a-02-01a-01-03-03	Bryant Skeen	Thompson	Ogden, UT	08/10/1976			Teresa Anne Ferry				
+49	1a-02-03-04-01-04-01a-02a-02-01a-01-03-03-01	Bryant Skeen Jr	Thompson	Silver Springs, MD	02/23/2007							
+50	1a-02-03-04-01-04-01a-02a-02-01a-01-03-04	Kalani Bishop	Thompson	Ogden, UT	?/?/1980							
+51	1a-02-03-04-01-04-01a-02a-02-01a-01-04	Raymond Corbett	Bishop	Denver, CO	09/05/1946		01/25/1972	Debra Serbin Brenner		?/?/1949		
+52	1a-02-03-04-01-04-01a-02a-02-01a-01-04-01	Raymond Brian	Bishop	Ellsworth AFB, Rapid City, SD	12/10/1974							
+53	1a-02-03-04-01-04-01a-02a-02-01a-01-04-02	Abbey Ann	Bishop	Ellsworth AFB, Rapid City, SD	09/10/1977							
+54	1a-02-03-04-01-04-01a-02a-02-01a-01-04-03	Clark Brenner	Bishop	San Antonio, TX	03/01/1979							
+55	1a-02-03-04-01-04-01a-02a-02-01a-02	Clara Almeda	Bishop	Douglas WY	03/06/1917		12/05/1946	James Froggatt		03/22/1916		
+56	1a-02-03-04-01-04-01a-02a-02-01a-02-01	Judy Almeda	Froggatt	Paso Robles, CA	03/03/1954		08/14/1977	Phillip Einar Niemie		09/23/1954		
+57	1a-02-03-04-01-04-01a-02a-02-01a-02-01-01	Melissa Claire	Niemie	Douglas, WY	08/12/1979							
+58	1a-02-03-04-01-04-01a-02a-02-01a-02-01-02	Matthew James	Niemie	Douglas, WY	07/22/1981							
+59	1a-02-03-04-01-04-01a-02a-02-01a-02-01-03	Kirsta Lynn	Niemie	Columbus, OH	09/30/1983							
+60	1a-02-03-04-01-04-01a-02a-02-01a-02-02	Phoebe Ann	Froggatt	San Loius Obispo, CA	09/17/1955							
+61	1a-02-03-04-01-04-01a-02a-02-01a-02-03	Jack Bishop	Froggatt	San Loius Obispo, CA	05/22/1959							
+62	1a-02-03-04-01-04-01a-02a-02-01a-03	Floyd Albert	Bishop	Cheyenne, WY	09/10/1920		05/09/1942	June Knisely	Sunshine, WY	06/06/1919		
+63	1a-02-03-04-01-04-01a-02a-02-01a-03-01	David Floyd	Bishop	Worland, WY	07/25/1944		12/29/1967	Holly Brooke Decker		09/24/1947		
+64	1a-02-03-04-01-04-01a-02a-02-01a-03-01-01	Amber J	Bishop	Ft. Rucker, AL	10/20/1970							
+65	1a-02-03-04-01-04-01a-02a-02-01a-03-01-02	Wendy Ann	Bishop	Casper, WY	12/28/1972							
+66	1a-02-03-04-01-04-01a-02a-02-01a-03-01-03	Tammy Brooke	Bishop	Powell, WY	09/18/1976							
+67	1a-02-03-04-01-04-01a-02a-02-01a-03-02	Jay Clark	Bishop	Worland, WY	06/07/1948							
+68	1a-02-03-04-01-04-01a-02a-02-01a-03-03	Richard John	Bishop	Lander, WY	03/05/1958		06/11/1983	Marlene Schaible		06/09/1958		
+69	1a-02-03-04-01-04-01a-02a-02-01a-04	Ella Mary	Bishop	Douglas WY	07/15/1922		04/26/1944	Edward Halsey	Rock Springs, WY	05/04/1922		
+70	1a-02-03-04-01-04-01a-02a-02-01a-04-01	Stephen Edward	Halsey	Chicago, IL	02/24/1945		11/05/1967	Sonja Bell		03/20/1947		
+71	1a-02-03-04-01-04-01a-02a-02-01a-04-01-01	Jamie	Halsey	Milford, CN	09/18/1972							
+72	1a-02-03-04-01-04-01a-02a-02-01a-04-02	David James	Halsey	Lusk, WY	01/28/1951		09/06/1981	Lisa Afflerbach		05/23/1957		
+73	1a-02-03-04-01-04-01a-02a-02-01a-04-03	Mary Michael	Halsey	Lusk, WY	06/12/1949							
+74	1a-02-03-04-01-04-01a-02a-02-01a-04-04	John Francis	Halsey	Newcastle, WY	01/16/1953			Sherry Lincoln		12/06/1955		
+75	1a-02-03-04-01-04-01a-02a-02-01a-04-04-01	Elaine Joyce	Halsey	Sequim, WA	03/26/1977							
+76	1a-02-03-04-01-04-01a-02a-02-01a-04-04-02	Karl Vincent	Halsey	Meridian, ID	05/04/1979							
+77	1a-02-03-04-01-04-01a-02a-02-01a-04-04-03	Nicholas Edward	Halsey	Fort Collins, CO	12/20/1982							
+78	1a-02-03-04-01-04-01a-02a-02-01b	Loren Clark	Bishop	homestead on LaPrele Creek, near old Fort Fetterman WY	03/04/1885	02/20/1961	05/01/1943	Claire Tanner		1879	12/09/1973	
+79	1a-02-03-04-01-04-01a-02a-02-02	Hattie Rose	Bishop	homestead on LaPrele Creek, near old Fort Fetterman WY	11/20/1887	12/08/1918	11/19/1907	Marshall Nye				
+80	1a-02-03-04-01-04-01a-02a-02-02-01	Iola	Nye	Jamesville, NY ?	09/08/1908							
+81	1a-02-03-04-01-04-01a-02a-02-02-02	Ralph	Nye	Jamesville, NY ?	09/19/1910							
+82	1a-02-03-04-01-04-01a-02a-02-02-03	Verda	Nye	Jamesville, NY ?	02/03/1913	10/10/1933						
+83	1a-02-03-04-01-04-01a-02a-02-02-04	Eva Edith	Nye	Jamesville, NY ?	01/03/1915							
+84	1a-02-03-04-01-04-01a-02a-02-03	Jessie Viola	Bishop	homestead on LaPrele Creek, near old Fort Fetterman WY	02/01/1889	05/24/1910						
+85	1a-02-03-04-01-04-01a-02a-02-04	Clarence Alfred	Bishop	homestead on LaPrele Creek, near old Fort Fetterman WY	07/08/1890		10/19/1914	Blanch Burt				
+86	1a-02-03-04-01-04-01a-02a-02-05	Oren Calvin	Bishop	WY	09/13/1892		04/??/1917 or 1918	Mable Smith				
+87	1a-02-03-04-01-04-01a-02a-02-05-01	Virginia Florence	Bishop	NY ?	02/02/1920							
+88	1a-02-03-04-01-04-01a-02a-02-05-02	Robert Calvin	Bishop	NY ?	11/23/1922							
+89	1a-02-03-04-01-04-01a-02a-02-06	Maude Matilda	Bishop	homestead on LaPrele Creek, near old Fort Fetterman WY	04/27/1894		10/??/1917	Clyde Ebbert				
+90	1a-02-03-04-01-04-01a-02a-02-06-01	Retta Maude	Ebbert	Cheyenne, WY ?	10/12/1920							
+91	1a-02-03-04-01-04-01a-02a-02-06-02	Robert Grafton	Ebbert	Cheyenne, WY ?	01/08/1924							
+92	1a-02-03-04-01-04-01a-02a-02-06-03	Richard Clark	Ebbert	Cheyenne, WY ?	01/08/1924							
+93	1a-02-03-04-01-04-01a-02a-02-07	Edith Luella	Bishop	homestead on LaPrele Creek, near old Fort Fetterman WY	10/17/1896		12/05/1915	William Covington				
+94	1a-02-03-04-01-04-01a-02a-02-07-01	Viva Violet	Covington	Craig, CO ?	05/21/1917							
+95	1a-02-03-04-01-04-01a-02a-02-07-02	Spencer Brice	Covington	Craig, CO ?	09/16/1922							
+96	1a-02-03-04-01-04-01a-02a-02-07-03	Mary Luella	Covington	Craig, CO ?	03/09/1924							
+97	1a-02-03-04-01-04-01a-02a-02-07-04	Willa Edith	Covington	Craig, CO	10/26/1928							
+98	1a-02-03-04-01-04-01a-02a-02-08	Spencer Adelbert	Bishop	homestead on LaPrele Creek, near old Fort Fetterman WY	04/02/1898		04/??/1923	Josephine Poirot				
+99	1a-02-03-04-01-04-01a-02a-02-08-01	Joseph F.	Bishop		12/31/1923							
+100	1a-02-03-04-01-04-01a-02a-02-09	Arthur Artemus	Bishop	homestead on LaPrele Creek, near old Fort Fetterman WY	10/21/1899		09/??/1925 or 1926	Irene Dakans				
+101	1a-02-03-04-01-04-01a-02a-02-09-01	Irene	Bishop	Hood River, OR ?	11/01/1927							
+102	1a-02-03-04-01-04-01a-02a-02-10	Cecil Lawrence	Bishop	Tobin ranch on LaPrele Creek, near old Fort Fetterman WY	09/11/1904							
+103	1a-02-03-04-01-04-01a-02a-02-11	Edna Mae	Bishop	Tobin ranch on LaPrele Creek, near old Fort Fetterman WY	01/06/1906		07/23/1925	Leigh Wolf				
+104	1a-02-03-04-01-04-01a-02a-02-12	Mable Pearl	Bishop	Tobin ranch on LaPrele Creek, near old Fort Fetterman WY	08/26/1908		10/14/1926	Jack Arthur Rockwell				
+105	1a-02-03-04-01-04-01a-02a-03	John Sylvanus	Bishop	OH	09/25/1854	11/05/1926	01/01/1885	Fannie Way				
+106	1a-02-03-04-01-04-01a-02a-04	Cora M.	Bishop	Lafayette, NY	08/09/1857	06/30/1893		Harvey Maddox				
+107	1a-02-03-04-01-04-01a-02a-04-01	Earl	Maddox	Ft. Fetterman, WY	01/05/1886							
+108	1a-02-03-04-01-04-01a-02a-04-02	Roy	Maddox	Mosca, CO	10/25/1887							
+109	1a-02-03-04-01-04-01a-02a-04-03	Carrie	Maddox	Mosca, CO	01/19/1891							
+110	1a-02-03-04-01-04-01a-02a-05	Fannie Clark	Bishop	Lafayette, NY	10/19/1859		03/21/1883	William Phelps				
+111	1a-02-03-04-01-04-01a-02b	Artemus Clark	Bishop	Oswego, NY	11/04/1823	11/18/1897		Jane Humphrey White			07/02/1927	
+112	1a-02-03-04-01-04-01a-02b-01	Clinton R	Bishop	NY	12/25/1869	04/25/1915	05/30/1912	Leona Wagner				
+113	1a-02-03-04-01-04-01a-02b-02	Fred E.	Bishop	NY	01/08/1873		08/11/1903	Sarah J. Patterson				
+114	1a-02-03-04-01-04-01a-02b-02-01 ?	Fred	Bishop									
+115	1a-02-03-04-01-04-01a-02b-03	Jessie E.	Bishop	NY	02/15/1876	04/19/1888						
+116	1a-02-03-04-01-04-01a-02b-04	Frank I.	Bishop	NY	12/01/1880		11/18/1912	M. Florence Rusbaraugh Morphy		08/24/1883		
+117	1a-02-03-04-01-04-01a-02b-04-01 ?	Frank	Bishop									
+118	1a-02-03-04-01-04-01a-02b-S	Frankie White	Bishop									
+119	1a-02-03-04-01-04-01a-02b-S	John White	Bishop									
+120	1a-02-03-04-01-04-01b	John	Bishop	Kinderhook, NY	01/19/1794	04/13/1870		Elinor Rumrill			04/30/1875	
+121	1a-02-03-04-01-04-01b-03	Electra R.	Bishop	Oswego, NY	01/29/1837	11/13/1916						
+122	1a-02-03-04-01-04-01b-04	E. Reed	Bishop	Oswego, NY	04/11/1838	07/30/1871	12/25/1868	Mary A. Becker		11/03/1846	04/13/1905	
+123	1a-02-03-04-01-04-01b-04-01	William R.	Bishop	Chillicoth, MO ?	09/07/1869		07/20/1905	Eveline G. Phillips				
+124	1a-02-03-04-01-04-01b-04-02	Ward S.	Bishop	Chillicoth, MO	07/02/1871		02/26/1896	Elizabeth J. Chittick				
+125	1a-02-03-04-01-04-01b-04-02-01	Robert Reed	Bishop	Chillicoth, MO	?/?/1898							
+126	1a-02-03-04-01-04-01b-04-02-02	William Ward	Bishop	Chillicoth, MO	?/?/1900							
+127	1a-02-03-04-01-04-01b-05	John S.	Bishop	Oswego, NY	12/15/1839	12/27/1925	11/03/1868	Jane H.				
+128	1a-02-03-04-01-04-01b-05-01	John L.	Bishop		11/23/1869		04/06/1897	Ella M. Cottle			09/24/1931	
+129	1a-02-03-04-01-04-01b-05-01-01	John E.	Bishop		11/09/1898		06/30/1928	Mildred Lange				
+130	1a-02-03-04-01-04-01b-05-01-02	Donnald C.	Bishop		01/22/1905							
+131	1a-02-03-04-01-04-01b-05-01-1-01	Marilyn Ruth	Bishop		12/23/1931							
+132	1a-02-03-04-01-04-01b-05-02	Eleanor R.	Bishop		01/11/1872		02/01/1900	Edward B. Parker				
+133	1a-02-03-04-01-04-01b-05-02-01	Helen M.	Parker		06/13/1901		06/07/1922	Raynor Boyce				
+134	1a-02-03-04-01-04-01b-05-02-01-01	David Parker	Boyce		02/13/1928							
+135	1a-02-03-04-01-04-01b-05-02-02	Eliza B.	Parker		04/17/1903							
+136	1a-02-03-04-01-04-01b-05-02-03	Theodore H.	Parker		05/08/1907							
+137	1a-02-03-04-01-04-01b-05-02-04	John B.	Parker		05/16/1909	03/15/1926						
+138	1a-02-03-04-01-04-01b-05-02-5	Edward S.	Parker		10/13/1911		01/23/1932	Agnes Crampton				
+139	1a-02-03-04-01-04-01b-05-03	Nelson F.	Bishop		01/10/1873	08/30/1873						
+140	1a-02-03-04-01-04-01b-05-04	Edward S.	Bishop	Scriba, NY	04/05/1875		07/11/?	Sarah E.Wood				
+141	1a-02-03-04-01-04-01b-05-04-01	Helen Alice	Bishop	Oswega, NY ?	03/02/1911							
+142	1a-02-03-04-01-04-01b-05-06	Jennie E.	Bishop		03/02/1886							
+143	1a-02-03-04-01-04-01b-05-07	Lewis	Bishop		06/06/1889	06/09/1889						
+144	1a-02-03-04-01-04-01b-05-5	Charles A.	Bishop		07/26/1881		09/16/1911					
+145	1a-02-03-04-01-04-01b-05-5-01	Eleanor E	Bishop		06/01/1912		08/30/1929	Edw. F. Bond				
+146	1a-02-03-04-01-04-01b-05-5-01-01	Marjorie Eliz.	Bond		10/18/1930							
+147	1a-02-03-04-01-04-01b-05-5-01-02	Walter Edw.	Bond		01/31/1932							
+148	1a-02-03-04-01-04-01b-06	Charles T.	Bishop	Oswego, NY	05/29/1847	08/08/1978		Bertha C. Kyle				
+149	1a-02-03-04-01-04-01b-06-01	Frank H.	Bishop		12/01/1870		?/?/1900	Margretta Green				
+150	1a-02-03-04-01-04-01b-06-01-01	Rutherford	Bishop		07/24/1902		08/16/1924	Agnes Conners				
+151	1a-02-03-04-01-04-01b-06-01-02	Kyle G.	Bishop		07/16/1907							
+152	1a-02-03-04-01-04-01b-06-02	Reed R	Bishop		05/29/1872		06/19/1902	Edith M. Teson				
+153	1a-02-03-04-01-04-01b-06-02-01	Charles H.	Bishop		06/22/1903			Marietta				
+154	1a-02-03-04-01-04-01b-06-02-01-01	E. Taylor	Bishop		06/26/1928							
+155	1a-02-03-04-01-04-01b-06-02-02	Louise E.	Bishop		02/07/1905		06/16/1928	L. S. Cooper				
+156	1a-02-03-04-01-04-02a	Artemus	Bishop	Pompey, NY	12/30/1795	12/18/1872	11/?/1822	Elizabeth Edwards			02/28/1828	
+157	1a-02-03-04-01-04-02a-01	Jane Elizabeth	Bishop	Kailua, HI	04/06/1825	07/18/1904	10/?/1860	Herman Hillebrand		Germany		
+158	1a-02-03-04-01-04-02a-01-01	Frank	Hillebrand	HI	02/?/1862	03 or 04/1862						
+159	1a-02-03-04-01-04-02a-01-02	Helen Louise	Hillebrand	HI	03/01/1864			Dr. William R. Dalton			05/25/1931	
+160	1a-02-03-04-01-04-02a-01-03	Mary Elizabeth	Hillebrand	HI	04/03/1865		08/18/1891	Arthur Chambers Alexander				
+161	1a-02-03-04-01-04-02a-01-03-01	William Patterson	Alexander	New Haven, CT	07/29/1893		02/26/1919	Alice Renton Bond				
+162	1a-02-03-04-01-04-02a-01-03-01-01	William Patterson	Alexander		04/26/1920							
+163	1a-02-03-04-01-04-02a-01-03-01-02	Benjamin Bond	Alexander		11/14/1922							
+164	1a-02-03-04-01-04-02a-01-03-01-03	Henry Arthur	Alexander		03/15/1925							
+165	1a-02-03-04-01-04-02a-01-03-02	Helen Constance	Alexander	Honolulu, HI	01/07/1895							
+166	1a-02-03-04-01-04-02a-01-03-03	Arthur Dewitt	Alexander	Honolulu, HI	10/28/1896		06/18/1921	Edith Dohrman				
+167	1a-02-03-04-01-04-02a-01-03-03-01	Jean Edith	Alexander	San Francisco, CA	08/26/1923							
+168	1a-02-03-04-01-04-02a-01-03-03-02	William Dewitt	Alexander	San Francisco, CA	04/06/1926							
+169	1a-02-03-04-01-04-02a-01-03-04	Herman Hillebrand	Alexander	Honolulu, HI	05/05/1900		09/19/1925	Helen Marr McColl				
+170	1a-02-03-04-01-04-02a-01-03-04-01	Duncan John	Alexander	Puunene, Maui, HI	07/01/1926							
+171	1a-02-03-04-01-04-02a-01-03-05	Mary Douglas	Alexander	Honolulu, HI	08/12/1906							
+172	1a-02-03-04-01-04-02a-02	Sereno Edwards	Bishop	Kailua, HI	02/08/1827	03/24/1910	05/31/1852	Cornelia Ann Sessions				
+173	1a-02-03-04-01-04-02a-02-01	Edwards Fletcher	Bishop	HI	?/?/1853	?/?/1874						
+174	1a-02-03-04-01-04-02a-02-02	Charles S.	Bishop	HI	?/?/1855	?/?/1858						
+175	1a-02-03-04-01-04-02a-02-03	George S.	Bishop	HI	?/?/1857	?/?/1858						
+176	1a-02-03-04-01-04-02a-02-04	John Sessions	Bishop	Lahaiua, Maui, HI	07/17/1859		08/18/1887	Alice Moore				
+177	1a-02-03-04-01-04-02a-02-04-01	Helen Cornelia	Bishop	Oakland, CA	10/26/1891							
+178	1a-02-03-04-01-04-02a-02-04-02	John Egbert	Bishop	OR ?	10/12/1893	05/29/1919	06/?/1917	Margaret Jones				
+179	1a-02-03-04-01-04-02a-02-04-02-01	John Arthur (Stone?)	Bishop		06/21/1918							
+180	1a-02-03-04-01-04-02a-02-05	Elizabeth Della	Bishop	Lahaiua, Maui, HI	01/17/1862		11/15/1883	Jonathan Shaw	Londonderry, Ireland		06/1917	
+181	1a-02-03-04-01-04-02a-02-05-01	Ruth Cornelia	Shaw		05/23/1885							
+182	1a-02-03-04-01-04-02a-02-05-02	Jessie Cunningham	Shaw		04/23/1887		10/?/1917	Thomas A. Fisher				
+183	1a-02-03-04-01-04-02a-02-05-02-01	Havrah David	Fisher	Honolulu, HI	09/29/1918							
+184	1a-02-03-04-01-04-02a-02-05-03	Margaret Fenton	Shaw		09/19/1891							
+185	1a-02-03-04-01-04-02b	Artemus	Bishop	Pompey, NY	12/30/1795	12/18/1872	12/01/1828	Della Stone	Bloomfield, NY	05/26/1800	04/13/1875	
+186	1a-02-03-04-01-04-03	George	Bishop	Pompey, NY	12/25/1797			Maryette Canfield				
+187	1a-02-03-04-01-04-04	Abagail	Bishop	Pompey, NY	11/27/1800	01/30/1875		Owen				
+188	1a-02-03-04-01-04-05	Eliza	Bishop	Pompey, NY	11/20/1802			Moses Butler				
+189	1a-02-03-04-01-04-06	Lewis	Bishop	Pompey, NY	12/27/1806	04/18/1877	11/14/1833	Sarah F. Rhoades		?/?/1810	05/19/1902	
+190	1a-02-03-04-01-04-06-01	Julia E.	Bishop	Bunker Hill, Oswego, NY	07/23/1836	03/12/1912	?/?/1853	Amos Pease			02/21/1915	
+191	1a-02-03-04-01-04-06-01-01	Laura Mariam	Pease		11/19/1854	10/16/1918		Charles E. Leadley				
+192	1a-02-03-04-01-04-06-01-02	Ellen May	Pease		05/04/1857			Kingsley T. Boardman				
+193	1a-02-03-04-01-04-06-01-03	Sarah Adelaide	Pease		03/07/1859			Charles M. Barstow				
+194	1a-02-03-04-01-04-06-01-04	Lillie Minerva	Pease		11/21/1861			Warren C. Rowell				
+195	1a-02-03-04-01-04-06-01-05	Marcia Mary	Pease		04/12/1866	09/04/1866	11/30/1930	Geo. E. Belinger			09/20/1931	
+196	1a-02-03-04-01-04-06-02	William S.	Bishop	Bunker Hill, near Oswego, NY	12/23/1838	11/15/1923	12/23/1860	Minerva Sophia Parker		03/16/1842	06/02/1912	
+197	1a-02-03-04-01-04-06-02-01	Sylvanus P.	Bishop	NY ?	12/11/1862							
+198	1a-02-03-04-01-04-06-02-02	Lewis H.	Bishop	IA ?	06/02/1866							
+199	1a-02-03-04-01-04-06-02-03	William T.	Bishop	IA ?	01/10/1871							
+200	1a-02-03-04-01-04-06-03	Nelson J.	Bishop	Bunker Hill, near Oswego, NY	03/24/1841		04/14/1866	Ada E. Bagley		03/24/1844	05/12/1915	
+201	1a-02-03-04-01-04-06-03-01 ?	Charles F.	Bishop	IA ?	01/02/1868							
+202	1a-02-03-04-01-04-06-03-02 ?	Carrie	Bishop		03/?/1868 or later							
+203	1a-02-03-04-01-04-06-04	Sereno L.	Bishop	Bunker Hill, near Oswego, NY	03/20/1842 or 1843	08/31/1923	06/07/1867	Anna M. Stevenson		08/14/1843	12/20/1915	
+204	1a-02-03-04-01-04-06-04-01	Alice	Bishop	NY ?	06/19/1868							
+205	1a-02-03-04-01-04-06-04-02	William	Bishop	IA ?	06/?/1870							
+206	1a-02-03-04-01-04-06-05	Sarah E.	Bishop	Bunker Hill, near Oswego, NY	12/11/1845	12/05/1931	03/22/1866	Andrew J. Fitch			09/01/1871	
+207	1a-02-03-04-01-04-06-05-01	Andrew J	Fitch		03/21/1868							
+208	1a-02-03-04-01-04-06-05-02	S. Emaline	Fitch		06/19/1871	07/28/1890						
+209	1a-02-03-04-01-04-06-06	Jane H.	Bishop	Oswego, NY	05/19/1849							
+210	1a-02-03-04-01-04-07	Sally	Bishop	Pompey, NY	07/12/1809			Theodore Rhoades				
+211	1a-02-03-04-01-04-08	Nelson Spicer	Bishop	Pompey, NY	04/16/1812	08/06/1879	09/30/1835	Julie L. Brooks		06/13/1815	09/29/1901	
+212	1a-02-03-04-01-04-08-01	Henry Harrison	Bishop	La Porte, OH	03/27 or 28/1838	08/24/1908	02/06/1867	Mary Eliza Rhoades			07/12/1920	
+213	1a-02-03-04-01-04-08-01-01	Nelson Theodore	Bishop		09/01/1868	09/14/1868						
+214	1a-02-03-04-01-04-08-01-02	Charles Lewis	Bishop	Chillicothe, MO	07/27/1870		08/12/1896	Luella Elizabeth Hitchison				
+215	1a-02-03-04-01-04-08-01-02-01	Helen Mary	Bishop		04/09/1899							
+216	1a-02-03-04-01-04-08-01-02-02	Harold Hutchison	Bishop		09/03/1901		11/14/1925	Dorothy Stuart Crewe				
+217	1a-02-03-04-01-04-08-01-02-03	Dorothy	Bishop		05/09/1903							
+218	1a-02-03-04-01-04-08-01-03	Edmond LeRoy	Bishop		09/25/1872		12/12/1901	Lucy Holloway		08/22/1877		
+219	1a-02-03-04-01-04-08-01-04	Vincent Albert	Bishop	Chillicothe, MO	12/02/1877							
+220	1a-02-03-04-01-04-08-01-05	Henry Fred	Bishop		09/12/1880		02/07/1906	Catherine Reints		09/26/1882		
+221	1a-02-03-04-01-04-08-01-05-01	Evelyn Bernice	Bishop		09/12/1907							
+222	1a-02-03-04-01-04-08-01-05-02	Genevieve DeLores	Bishop		12/15/1911							
+223	1a-02-03-04-01-04-08-01-05-03	Donald Vincent	Bishop		09/25/1915							
+224	1a-02-03-04-01-04-08-01-05-04	Gordon Reints	Bishop		01/02/1917							
+225	1a-02-03-04-01-04-08-01-05-5	Mariam Katherine	Bishop		05/14/1922							
+226	1a-02-03-04-01-04-08-02	Mary Julia	Bishop		1838 or later		02/21/1882	Francis Joseph Pratt				
+227	1a-02-03-04-01-04-08-02-01	Arthur Francis	Pratt	Fairbault, MN	01/12/1883							
+228	1a-02-03-04-01-04-08-02-02	Edith Joesphine	Pratt	Fairbault, MN	07/10/1887			Walter Sherman Hearne				
+229	1a-02-03-04-01-04-09a	Mary	Bishop	Oswego, NY	12/08/1814			Theodore Rhoades				
+230	1a-02-03-04-01-04-09a-01 ?	Dwight	Rhoades									
+231	1a-02-03-04-01-04-09a-02 ?	Mary	Rhoades ?		07/12/1920							
+232	1a-02-03-04-01-04-09b	Mary	Bishop	Oswego, NY	12/08/1814			Levi Pease				
+233	1a-02-03-04-01-04-09b-01 ?	Leroy	Pease									
+234	1a-02-03-04-01-04-09b-02 ?	Anna	Pease									
+235	1a-02-03-04-01-04-09b-03 ?	Ira	Pease									
+236	1a-02-03-04-01-04-10	Ruby Ann	Bishop	Oswego, NY	11/06/1817	08/22/1852		William H. Stephens				
+237	1a-02-03-04-01-04-10-01	Richard	Stephens	Pompey, NY	03/15/1841	12/16/1926		Elizabeth Hayden		10/15/1839		
+238	1a-02-03-04-01-04-10-01-01	George H.	Stephens		01/28/1878	02/13/1910						
+239	1a-02-03-04-01-04-10-02	Mary E.	Stephens		09/08/1843	06/03/1853						
+240	1a-02-03-04-01-04-11a	William Henry	Bishop	Oswego, NY	09/11/1821			Eliza Pratt				
+241	1a-02-03-04-01-04-11a-01	Mary Elizabeth	Bishop	Laporte, IN	12/18/1841	04/24/1906		Wm. Duggins				
+242	1a-02-03-04-01-04-11a-02	Vesta Lucetta	Bishop	LaHarpe, Hancock Co., IL	01/01/1923			Edwin Twitchell				
+243	1a-02-03-04-01-04-11a-03	Wm. Sylvanus	Bishop	LaHarpe, IL	10/03/1846							
+244	1a-02-03-04-01-04-11a-04	Joseph Franklin	Bishop	Harrison, MO	12/25/1846	11/25/1847						
+245	1a-02-03-04-01-04-11a-05a	Mahonri Moriancumur	Bishop	Pisgah, IA	11/25/1848	07/22/1910	07/18/1868	Mary Gibbs				
+246	1a-02-03-04-01-04-11a-05b	Mahonri Moriancumur	Bishop	Pisgah, IA	11/25/1848	07/22/1910	07/?/1882	Jeanette Brunson				
+247	1a-02-03-04-01-04-11a-06	Penelope	Bishop	Echo Canon	09/16/1850	07/17/1871	10/12/1860	Solomon Avery Wixon				
+248	1a-02-03-04-01-04-11a-07	Eliza Eldula	Bishop	Provo, UT	07/28/1853	01/19/1883	11/?/1869	Henry Platt Hobson				
+249	1a-02-03-04-01-04-11a-08	Nelson Spicer	Bishop	Fillmore, UT	11/01/1855	10/09/1919		Ann Elizabeth Melville				
+250	1a-02-03-04-01-04-11a-09a	Heber LaFayette	Bishop	Fillmore UT ?	12/15/1857	11/03/1899	12/25/1879	Martha Ellen Cahoon				
+251	1a-02-03-04-01-04-11a-09b	Heber LaFayette	Bishop	Fillmore UT ?	12/15/1857	11/03/1899	10/13/1900	Mary Benett				
+252	1a-02-03-04-01-04-11a-10	Savalla	Bishop	Fillmore, UT	12/31/1857		12/31/1877	Brigham Melville				
+253	1a-02-03-04-01-04-11b	William Henry	Bishop	Oswego, NY	09/11/1821			Malinda Case				
+254	1a-02-03-04-01-05a	Artemas (or Artemus)	Bishop	Brimfield, MA	06/04/1767			Polly Castle		?	10/23/1829	
+312	1a-02-03-04-01-05a-01	Polly	Bishop				1820	Jarvis Leonard				
+313	1a-02-03-04-01-05a-02	Amos	Bishop		1800			Hilda				
+314	1a-02-03-04-01-05a-03	Salmon	Bishop	Pompey, NY	1801	05/20/1884		E. Louis Hayden				
+315	1a-02-03-04-01-05a-04	Betsey	Bishop		1806							
+316	1a-02-03-04-01-05a-05	Edwin	Bishop		1808			Emily				
+317	1a-02-03-04-01-05a-05-01	Adelaide	Bishop					? Estes				
+318	1a-02-03-04-01-05a-05-02	Richard	Bishop									
+319	1a-02-03-04-01-05a-05-03	Julia T.	Bishop									
+321	1a-02-03-04-01-05a-06a	Orrin	Bishop		1811							
+322	1a-02-03-04-01-05a-06a-01	Jerome	Bishop									
+323	1a-02-03-04-01-05a-06a-02	Aaron	Bishop									
+324	1a-02-03-04-01-05a-06a-03	Salmun	Bishop									
+325	1a-02-03-04-01-05a-06b	Orrin	Bishop		1811			Mr. Mary Blanchard Wekter				
+326	1a-02-03-04-01-05a-06b-01	Fredrick	Bishop									
+327	1a-02-03-04-01-05a-06b-02	Lottie E.	Bishop									
+328	1a-02-03-04-01-05a-06b-03	Pheba	Bishop									
+330	1a-02-03-04-01-05b	Artemas (or Artemus)	Bishop	Brimfield, MA	06/04/1767			Phebe	Vermont			
+255	1a-02-03-04-01-06	Anney (or Anna)	Bishop	Brimfield, MA	02/19/1769							
+256	1a-02-03-04-01-07	Judah (or Judith)	Bishop	Brimfield, MA	04/13/1771							
+257	1a-02-03-04-01-08	Betsey (or Elizabeth)	Bishop	Brimfield, MA	08/09/1773							
+258	1a-02-03-04-01-08	Rebakah (or Rebecca)	Bishop	Brimfield, MA	11/16/1775							
+259	1a-02-03-04-01-10	John	Bishop	Manchester or Brimfield, MA	07/15/1779							
+260	1a-02-03-04-01-11	William	Bishop	Brimfield, MA	06/10/1781	01/29/1852		Laura			04/29/1844	
+261	1a-02-03-04-01-11-01	William LeRoy	Bishop		06/15/1814	05/09/1896		Juline Ward		08/09/1817	03/18/1898	
+262	1a-02-03-04-01-11-01-01	Wilbur	Bishop		?/?/1838	03/05/1842						
+263	1a-02-03-04-01-11-01-02	Theron Castle	Bishop		12/27/1841	01/29/1916	10/06/1869	Emily Owen Gilette			06/10/1920	
+264	1a-02-03-04-01-11-01-02-01	Everett Ward	Bishop		07/18/1871		11/19/1902	Anna Wells		10/16/1877		
+265	1a-02-03-04-01-11-01-02-01-01	Everett Ward	Bishop		05/21/1906							
+266	1a-02-03-04-01-11-01-02-01-02	Anna Elizabeth	Bishop		04/18/1908							
+267	1a-02-03-04-01-11-01-02-02	Ernest Gillett	Bishop		10/31/1873		01/29/1904	Laura Jane Boler				
+268	1a-02-03-04-01-11-01-02-03	Herbert Bennett	Bishop		01/16/1876	09/27/1901						
+269	1a-02-03-04-01-11-01-02-04	Nellie Adell	Bishop		11/26/1879			Goe. Roy McHardy		07/31/1877		
+270	1a-02-03-04-01-11-01-02-04-01	Elizabeth	McHardy		07/09/1904							
+271	1a-02-03-04-01-11-01-02-04-02	Robert	McHardy		?/?/1914							
+272	1a-02-03-04-01-11-01-02-05	John Wentworth	Bishop		11/30/1881							
+273	1a-02-03-04-01-11-01-02-06	William Hudson	Bishop		10/08/1882		10/15/1906	Clara Lord Hartwell		10/16/1875		
+274	1a-02-03-04-01-11-01-02-06-01	Benjamin W.	Bishop		09/26/1912							
+275	1a-02-03-04-01-11-01-02-06-02	Mary Jane	Bishop		04/13/1914							
+276	1a-02-03-04-01-11-01-02-07	Harold Gifford	Bishop		01/15/1892		12/31/1915	Caroline Etta Price				
+277	1a-02-03-04-01-11-01-02-07-01a	Barbara	Bishop		04/28/1926							
+278	1a-02-03-04-01-11-01-02-07-02a	Deborah	Bishop		04/28/1926							
+279	1a-02-03-04-01-11-01-03 ?	Ella	Bishop		?/?/1848	09/17/1874						
+280	1a-02-03-04-01-11-01-04	Wilbur	Bishop		12/25/1844	11/28/1877	01/15/1867	Clara T. Russell		03/19/1842		
+281	1a-02-03-04-01-11-01-04-01	Wilbur LeRoy	Bishop		05/07/1870			Anna O'Grady				
+282	1a-02-03-04-01-11-01-04-02	Louis Russell	Bishop		10/22/1871		09/11/1894	Maria Isham Hakes				
+283	1a-02-03-04-01-11-01-04-03	Ella Gertrude	Bishop		10/30/1873		09/20/1894	Eugene Lois Anstett				
+284	1a-02-03-04-01-11-01-04-03-01	Russell Phillips	Anstett		11/25/1897							
+285	1a-02-03-04-01-11-01-05	Florence	Bishop		?/?/1854	05/21/1896		Clarence Skelton				
+286	1a-02-03-04-02a	Richard	Bishop	Manchester, MA	08/09/1732			Sarah King				
+287	1a-02-03-04-02b	Richard	Bishop	Manchester, MA	08/09/1732		02/02/1764	Rachel Lee				
+288	1a-02-03-04-02c	Richard	Bishop	Manchester, MA	08/09/1732			Peggy Gordel				
+289	1a-02-03-04-03	Anna	Bishop	Manchester, MA	04/05/1736			"Deacon" Joseph Baker				
+290	1a-02-03-04-04	Elizabeth	Bishop	Manchester, MA	11/19/1738	1738						
+291	1a-02-03-04-05	Elizabeth	Bishop	Manchester, MA	01/15/1739 or 1740							
+292	1a-02-03-04-06	Abagail	Bishop	Manchester, MA	08/11/1743			James Blake				
+293	1a-02-03-04-07	Rachel	Bishop	Manchester, MA	10/10/1745			Baker				
+294	1a-02-03-04-08	Lucy	Bishop	Manchester, MA	11/28/1748							
+295	1a-02-03-04-09	Judith	Bishop	Manchester, MA	05/30/1751			Isaac Foster				
+296	1a-02-03-05	Mary	Bishop	Manchester, MA	07/24/1706		01/25/1727	Samual Bare	Manchester, MA	~/1702		
+297	1a-02-03-06	Sarah	Bishop	Manchester, MA	09/15/1708							
+298	1a-02-03-07	Prudence	Bishop	Manchester, MA	05/21/1713	After 01/19/1776	06/28/1731	Trenance Weber	Beverly, MA	10/28/1710	After 01/19/1776	
+299	1a-02-03-08	Jemimah	Bishop	Manchester, MA	06/17/1715	04/02/1760						
+300	1a-02-03-09	Richard	Bishop	Manchester, MA	09/22/1717							
+301	1a-02-03-10	Elizabeth	Bishop	Manchester, MA	07/10/1720							
+302	1a-02-04	Richard	Bishop	Manchester, MA	12/25/1669	10/07/1703 (at sea)						
+303	1a-02-05	Joseph	Bishop	Manchester, MA	02/27/1671	After 1702						
+304	1a-02-06	Lidia (or Lydia)	Bishop	Manchester, MA	03/01/1673		1698 or 1699 (pre 1700)	Francis Pierce				
+305	1a-02-07	Elizabeth	Bishop	Manchester, MA	09/06/1676		11/01/1705	John Williams				
+306	1a-02-08	Rebecca	Bishop	Manchester, MA	07/27 or 17 or 19/1678							
+307	1a-02-09	Thomas	Bishop	Manchester, MA	04/07/1680							
+308	1a-03	Nathaniel	Bishop									
+309	1a-04	John	Bishop	Salem, MA								
+310	1b	Richard	Bishop	England (Essex ?)	~1605	10 or 12/30/1674	05/22/1660	Mary Gould		~/1611		

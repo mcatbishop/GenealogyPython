@@ -1,0 +1,13 @@
+echo "<html><title> List of Pictures</title><body>\n" \
+"<p align=center><font size=+2 color=blue>List of Pictures</font><br><br>" \
+" <a href=index.htm >Name Index</a>"\
+" <a href=dobindex.htm >Date of Birth Index</a>"\
+" <a href=genindex.htm >Generation Index</a>"\
+"</p>" \
+"<hr><p>" \
+> picindex.htm
+
+for f in `cut -f2 pic_*/go | sed -e 's/\.\.\///' -e 's/p.htm/.htm/'`
+do
+	grep "$f" index.htm | sed -e 's/.htm/p.htm/'
+done >> picindex.htm

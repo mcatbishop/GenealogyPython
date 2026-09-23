@@ -1,0 +1,62 @@
+tophtml()
+{
+echo "
+<html>
+<body>
+
+<p align=center> <font size=+2>
+<a href=$NUM.htm>$NAME</a>
+</font> </p>
+"
+}
+pichtml()
+{
+echo "
+<p align=center>
+<a href=$PICFILE>
+<img src="$PICFILE" width=$WIDTH align=center></a>
+<p align=center>
+<font size=+2>
+$CAPTION
+</font>
+</p>
+"
+}
+endhtml()
+{
+echo "
+</body>
+</html>
+"
+}
+
+echo "Enter num:\c "
+read NUM
+echo "Enter name:\c "
+read NAME
+
+tophtml > ${NUM}p.htm
+
+WIDTH=500
+
+while [ true ]
+do
+	echo "Enter picfile:\c "
+	read PICFILE
+	if [ -z "$PICFILE" ]
+	then
+		break
+	fi
+	echo "Enter width (press enter for $WIDTH):\c "
+	read width
+	if [ -n "$width" ]
+	then
+		WIDTH=$width
+	fi
+	echo "Enter caption:\c "
+	read CAPTION
+	pichtml >> ${NUM}p.htm
+done
+
+endhtml >> ${NUM}p.htm
+
