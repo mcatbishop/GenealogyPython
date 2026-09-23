@@ -1,0 +1,19 @@
+1|1|Rev John|Greenwood|?|?|?|Married|?|Lydia|?|?|?||
+2|1-1a|John|Greenwood|Rehobeth, MA|01/06/1738 or 1739|?|Married|1756|Rebecca Hunt|?|?|?||
+3|1-1a-1|Oliver|Greenwood|?|?|?|Married|?|?|?|?|?||
+4|1-1a-2|Rebecca|Greenwood|?|?|?|Married|?|?|?|?|?||
+5|1-1b|John|Greenwood|Rehobeth, MA|01/06/1738 or 1739|?|Married|05/25/1761|Anne Peck|?|?|?||
+6|1-1b-1|Noah|Greenwood|Rehobeth, MA|11/11/1770|?|Married|?|Betsy Perry Braley|?|1782|05/10/1814||
+7|1-1b-1-1|Noah|Greenwood|Rome, NY|06/1812|about 1859 or 1860|Married|?|Pamelia Johnson|Rome, NY|05/17/1811|04/27/1886||
+8|1-1b-1-3|Charles Sala|Greenwood|Rome, NY|10/20/1830|09/31/1892|Married|11/11/1854|Sarah Cooke|Rome, NY|10/01/1835|09/23/1905|../CCooke/22|
+9|1-1b-1-3-1|Noah Henry|Greenwood|Nashua, IA|09/29/1855|03/15/1898|Married|?|?|?|?|?||
+10|1-1b-1-3-2|Burritt Cook|Greenwood|Nashua, IA|12/06/1856|1926|Married|09/06/1883|Jane Pratt|MO|01/1860|1927||
+11|1-1b-1-3-3|Giles Joseph|Greenwood|Nashua, IA|08/06/1858|10/30/1916|Married|04/02/1885|Henrietta Smith|Ottowa, KA|03/24/1870|10/30/1916||
+12|1-1b-1-3-4|Zilpha Maria|Greenwood|Nashua, IA|05/24/1860|07/18/1925|Married|05/12/1878|Benjamin Frankin Barnhart|Hoosack, NY|07/19/1837|01/23/1923||
+13|1-1b-1-3-5|Addie Elizabeth|Greenwood|Nashua, IA|05/27/1862|11/18/1862|Married|?|?|?|?|?||
+14|1-1b-1-3-6|Nellie C.|Greenwood|Nashua, IA|05/20/1866|02/03/1953|Married|11/24/1887|Clemeth Leard Hutchisson|Union, CO|05/11/1863|10/26/1928||
+15|1-1b-1-3-7|Elsie Jane|Greenwood|Washingon, IA|07/13/1870|11/13/1959|Married|10/21/1891|Thomas Jefferson Huntzinger|Anderson, IN|09/03/1892|04/04/1962||
+16|1-1b-1-3-8|Mary Estella|Greenwood|New Hampton, IA|04/13/1872|12/04/1947|Married|11/04/1891|Jacob Henry Oakley|Thurman, CO|08/26/1855|05/23/1921||
+17|1-1b-1-3-9|Charles Arthur|Greenwood|New Hampton, IA|05/05/1873|07/26/1960|Married|||||||
+18|1-1b-1-3-10|William Dempster|Greenwood|New Hampton, IA|08/03/1876|11/30/1951|Married|||||||
+19|1-1b-1-3-11|Sadie Almeda|Greenwood|Lime Springs, IA|04/26/1878|04/13/1942|Married|04/10/1911|Loren Clark Bishop|Douglas, WY|03/04/1885|02/20/1961|../BBisho/29|

@@ -1,0 +1,10 @@
+1|01|Herman|Berry|?|?|?|Married|?|Florence Rigby|?|?|?||
+2|01-01|Herbert Deveere|Berry|NY|1889|~/1973|Married|?|Mary Elizabeth Kelber|Brooklyn,NY|09/04?/1891|1987|../KKelbe/11|
+3|01-01-01a|Herbert|Berry|NY|~/1913|~/1985|Married|?|Sally|?|?|?||
+4|01-01-01b|Herbert|Berry|NY|~/1913|~/1985|Married|?|Mary Kelly|Hornell, NY|?|||
+5|01-01-01b-01|Kelly|Berry|Brooklyn, NY|||Married|||||||
+6|01-01-01b-02|Tommy|Berry|Brooklyn, NY|||Married|||||||
+7|01-01-01b-03|Carol|Berry|Brooklyn, NY|||Married|||||||
+8|01-01-01b-04|Barbara|Berry|Brooklyn, NY|||Married|||||||
+9|01-01-01b-05|Patrick|Berry|Brooklyn, NY|||Married|||||||
+10|01-01-02|Catherine Edna|Berry|Canarsy, NY|02/18/1915|?|Married|02/19/36|Thomas William Sheridan|Astoria, NY|05/?/1914|01/12/1993|../SSheri/3|

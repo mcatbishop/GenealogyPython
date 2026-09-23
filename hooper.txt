@@ -1,0 +1,15 @@
+1|01|John|Hooper|E. Coker, England|~1544||Married|11/06/1568|Agnes Williams|E. Coker, England||||
+2|01-01|Francis|Hooper|E. Coker, England|05/16/1577||Married||Elizabeth|||||
+3|01-01-01|Francis|Hooper|E. Coker, Somer England|05/11/1611||Married||Julian Holwaye|||||
+4|01-01-01-01|William|Hooper|E. Coker, Somer England|09/04/1644||Married||Elizabeth|||||
+5|01-01-01-01-01|William|Hooper|Beverly, Mass.|12/15/1678|01/20/1755|Married|01/05/1704|Abagail Gale||~1681|10/09/1769||
+6|01-01-01-01-01-01|William|Hooper|Beverly, Mass.|1706||Married||Lydia Allen|||||
+7|01-01-01-01-01-02|Andrew|Hooper|Beverly, Mass.|1706|09/04/1779|Married||Miriam Allen|||||
+8|01-01-01-01-01-03|Abigail|Hooper||||Married|11/09/1727|John Edwards|||||
+9|01-01-01-01-01-04|Elizabeth|Hooper|Manchester, Mass.|||Married|12/09/1729|John Bishop||||../BBisho/11|
+10|01-01-01-01-01-05|Lydia|Hooper||||Married|01/15/1736|Asariah Allen|||||
+11|01-01-01-01-01-06|Sarah|Hooper||08/03/1717||Married||Benjamin Searle|||||
+12|01-01-01-01-01-08|Pricilla|Hooper||1706||Married||Lydia Allen|||||
+13|01-01-01-01-01-07a|Jacob|Hooper||02/25/1740|02/17/1801|Married||Anna Lee|||||
+14|01-01-01-01-01-07b|Jacob|Hooper||02/25/1740|02/17/1801|Married||Lydia Babcock|||||
+15|01-01-01-01-01-09|Judith|Hooper||11/21/1725||Married||John Reynolds|||||

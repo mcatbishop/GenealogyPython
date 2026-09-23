@@ -1,0 +1,24 @@
+1|01|Archibald|Marshall|?|?|?|Married|?|Elizabeth|?|?|?||
+2|01-01|Archibald|Marshall|Scotland|?|1957|Married|?|?|Jean|?|?||
+3|01-01-01|Jim|Marshall|?|~/1911|?|Married|?|?|marion Johnson|?|?||
+4|01-02|Margaret|Marshall|Seneca, IL|?|?|Married|?|Sam Kidd|?|?|?||
+5|01-02-01|Marshall|Kidd|?|?|?|Married|?|?|?|?|?||
+6|01-02-02|Donald|Kidd|?|?|?|Married|?|Florence|?|?|?||
+7|01-03|Belle|Marshall|Seneca,IL|?|?|Married|?|?|?|?|?||
+8|01-04|Anne|Marshall|Seneca,IL|?|?|Married|?|Ray Martin|?|?|?||
+9|01-04-01|Beth|Martin|?|?|?|Married|?|Jim Elliot|?|?|?||
+10|01-04-02|John|Martin|?|?|?|Married|?|Martha Johnson|?|?|?||
+11|01-04-02-01|John|Martin|?|?|?|Married|?|Carrie|?|?|?||
+12|01-04-02-02|Mary Lou|Martin|?|?|?|Married|?|?|?|?|?||
+13|01-04-02-03|Barry|Martin|?|?|?|Married|?|Vickie Sorenson|?|?|?||
+14|01-04-02-04|Billy|Martin|?|?|?|Married|?|Linda|?|?|?||
+15|01-04-03|Archie|Martin|?|?|?|Married|?|Gale|?|?|?||
+16|01-04-04|Paul|Martin|?|?|?|Married|?|Gene|?|?|?||
+17|01-05|Jesse|Marshall|?|?|?|Married|?|Dr. Maurio Loebel|?|?|?||
+18|01-05-01|Maurice|Loebel|?|?|?|Married|?|?|?|?|?||
+19|01-05-02|Elizabeth|Loebel|?|?|?|Married|?|?|?|?|?||
+20|01-05-03|Ruth|Loebel|?|?|?|Married|?|?|?|?|?||
+21|01-06|Alexander Grover|Marshall|Seneca,IL|?|?|Married|?|Elizabeth Johnson|?|?|?||
+22|01-07|Besse|Marshall|Seneca,IL|?|?|Married|?|?|?|?|?||
+23|01-08|John R. (Jack)|Marshall|Seneca,IL|10/13/1899|10/18/1974|Married|?|Inez Vivian Fierce|?|1902|05/08/1990||
+24|01-08-01|Barbara Lou|Marshall|Seneca, IL|09/14/1930||Married|May 1951|Ronald A Demask|Chicago, IL|07/15/1931||../DDema/11|

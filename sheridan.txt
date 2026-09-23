@@ -1,0 +1,15 @@
+1|01|John|Sheridan|?|1906|?|Married|?|Elizabeth|?|?|?||
+2|01-01|Thomas|Sheridan|England|~/1880|10/?/1955|Married|?|Anastasia Eileen Mahoney|NY|1885|11/?/1955|../MMahon/2|
+3|01-01-01|Thomas William|Sheridan|Astoria, NY|05/13/1914|01/12/1993|Married|?|Catherine Edna Berry|NY|02/18/1915||../YBerry/10|
+4|01-01-01-01|Thomas Herbert|Sheridan|Astoria, NY|03/09/1939||Married|12/?/1966 |Katherine|10/?/1941|Tuscon, AZ|||
+5|01-01-01-01-01|Julie|Sheridan|Phoenix, AZ|09/?/1970||Married||?|||||
+6|01-01-01-01-02|Jeff|Sheridan|Phoenix, AZ|01/?/1974||Married||?|||||
+7|01-01-01-02|Letitia Elizabeth|Sheridan|Astoria, NY|02/06/1941||Married|10/23/1962|John Clark Bishop|Cody, WY|07/10/1936||../BBisho/31|
+8|01-01-01-03|Michael John|Sheridan|Astoria, NY|01/19/1950||Married|?|Sandra Gallinary|?|Brooklyn, NY|||
+9|01-01-01-03-01|Richard|Sheridan|NM|09/?/1978||Married|||||||
+10|01-01-01-03-02|Katherine|Sheridan|NM|01/?/1980||Married|||||||
+11|01-01-02|John|Sheridan|NY|04/?/1900||Married||Elizabeth Duncan|||||
+12|01-02|Robert|Sheridan|?|?|?|Married|?|?|?|?|?||
+13|01-03|Daniel|Sheridan|?|?|?|Married|?|?|?|?|?||
+14|01-04|John|Sheridan|?|?|?|Married|?|?|?|?|?||
+15|01-05|Catherine|Sheridan|?|?|?|Married|?|?|?|?|?||

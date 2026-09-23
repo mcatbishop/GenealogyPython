@@ -1,0 +1,12 @@
+1|01|Anthony|Kelber|Nanburg, Germany|||Married||Elizabeth Kuntz|US||||
+2|01-01|Caroline|Kelber|Brooklyn, NY|||Married||Jospeh Schaeffer|||||
+3|01-01-01|Mary (Girlie)|Schaeffer|Brooklyn, NY|||Married|||Paul Mansel||||
+4|01-01-01-01|Mary|Mansel||||Married|||||||
+5|01-01-01-02|Carol|Mansel||||Married|||||||
+6|01-01-01-03|Paul|Mansel||||Married|||||||
+7|01-01-01-04|Boy|Mansel||||Married|||||||
+8|01-01-01-05|Catherine|Mansel||||Married|||||||
+9|01-02|Charles|Kelber|Brooklyn, NY|||Married|||||||
+10|01-03|Sep|Kelber|Brooklyn, NY|||Married|||||||
+11|01-04a|Mary Elizabeth|Kelber|Brooklyn, NY|09/?/1891|1987|Married||Herbert Deveere Berry|NY|1889|~/1973|../YBerry/2|
+12|01-04b|Mary Elizabeth|Kelber|Brooklyn, NY|09/?/1891|1987|Married||Robert Moffat|||||
