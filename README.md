@@ -57,9 +57,7 @@ The `htmlturbo.py` wrapper uses the same positional arguments.
 - The C++ input extractor reads fields delimited by `|`; Python uses `line.split("|")` while preserving empty fields.
 - The original C++ writer emits tab-separated `newdata.txt`; this translation preserves that behavior.
 - HTML generation uses ordinary Python file objects and `pathlib`.
-- Output subdirectories are created automatically for page names such as `BBisho/1.htm`.
-- `_html_info1()` receives the output directory explicitly, fixing the `NameError: output_dir is not defined` bug.
-- `htmlbldr.py` now includes the family-tree generation pass from the C++ `htmlbldr.cpp`, before the final HTML closing tags are written.
+- Output subdirectories are created automatically for page names such as `BBisho/1.htm`.git
 - The old C++ code has some platform-specific DOS/Windows calls (`access`, `unlink`, `dir.h`, `io.h`). Those are replaced with Python's cross-platform `pathlib`/file operations.
 - The original `htmlturbo.cpp` does not call `generateTree`; `htmlbldr.cpp` does. The Python wrappers preserve that distinction.
 
