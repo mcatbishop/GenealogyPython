@@ -1,0 +1,107 @@
+generate_dobindex()
+{
+	python3 htmlbldr.py bishops.txt B -d 
+	python3 htmlbldr.py cooke.txt C -d
+	python3 htmlbldr.py green.txt G -d
+	python3 htmlbldr.py hooper.txt H -d
+	python3 htmlbldr.py kelber.txt K -d
+	python3 htmlbldr.py mahoney.txt M -d
+	python3 htmlbldr.py marsh.txt N -d
+	python3 htmlbldr.py sheridan.txt S -d
+	python3 htmlbldr.py berry.txt Y -d
+}
+
+generate_genindex()
+{
+	python3 htmlbldr.py bishops.txt B -g 
+	python3 htmlbldr.py cooke.txt C -g
+	python3 htmlbldr.py green.txt G -g
+	python3 htmlbldr.py hooper.txt H -g
+	python3 htmlbldr.py kelber.txt K -g
+	python3 htmlbldr.py mahoney.txt M -g
+	python3 htmlbldr.py marsh.txt N -g
+	python3 htmlbldr.py sheridan.txt S -g
+	python3 htmlbldr.py berry.txt Y -g
+}
+
+echo "<html><title>By Date of Birth</title><body>\n" \
+"<center>\n <image src=mysyms/rellogo.jpg border=0 width=75 align=center> </center>" \
+"<font size=+4>" \
+"<hr>" \
+"<a href=dobindex.htm#1600> 1600's</a>\n" \
+"<a href=dobindex.htm#1700> 1700's</a>\n" \
+"<a href=dobindex.htm#1800> 1800's</a>\n" \
+"<a href=dobindex.htm#1900> 1900's</a>\n" \
+"<a href=dobindex.htm#2000> 2000's</a>\n" \
+"<a href=dobindex.htm#99999> ?'s</a>\n" \
+"</font >" \
+"<p align=center>" \
+" <a href=index.htm> Names</a>"\
+" <a href=genindex.htm> Generations</a>"\
+"<br>" \
+" <a href=hisindex.htm> Histories</a>"\
+" <a href=stoindex.htm> Stories</a>"\
+" <a href=picindex.htm> Pictures</a>"\
+"</p>" \
+"<hr><p>" \
+> dobindex.htm
+
+(echo "<a name= 1600><p><font size=+4> <b> 1600's</font></b></a> 
+<a name= 1700 ><p><font size=+4> <b> 1700's</font></b></a> 
+<a name= 1800 ><p><font size=+4> <b> 1800's</font></b></a> 
+<a name= 1900 ><p><font size=+4> <b> 1900's</font></b></a> 
+<a name= 2000 ><p><font size=+4> <b> 2000's</font></b></a> 
+<a name= 99999 ><p><font size=+4> <b> ?'s</font></b></a> " &&
+generate_dobindexPy ) | sort -u | sort -k3 >> dobindex.htm
+echo "</body></html>" >> dobindex.htm
+
+echo "<html><title>By Generation</title><body>\n" \
+"<center>\n <image src=mysyms/rellogo.jpg border=0 width=75 align=center> </center>" \
+"<font size=+4>" \
+"<hr>" \
+"<a href=genindex.htm#1> 1</a>\n" \
+"<a href=genindex.htm#2> 2</a>\n" \
+"<a href=genindex.htm#3> 3</a>\n" \
+"<a href=genindex.htm#4> 4</a>\n" \
+"<a href=genindex.htm#5> 5</a>\n" \
+"<a href=genindex.htm#6> 6</a>\n" \
+"<a href=genindex.htm#7> 7</a>\n" \
+"<a href=genindex.htm#8> 8</a>\n" \
+"<a href=genindex.htm#9> 9</a>\n" \
+"<a href=genindex.htm#10> 10</a>\n" \
+"<a href=genindex.htm#11> 11</a>\n" \
+"<a href=genindex.htm#12> 12</a>\n" \
+"<a href=genindex.htm#13> 13</a>\n" \
+"<a href=genindex.htm#14> 14</a>\n" \
+"<a href=genindex.htm#15> 15</a>\n" \
+"</font >" \
+"<p align=center>" \
+" <a href=index.htm> Names</a>"\
+" <a href=dobindex.htm> Birthdays</a>"\
+"<br>" \
+" <a href=hisindex.htm> Histories</a>"\
+" <a href=stoindex.htm> Stories</a>"\
+" <a href=picindex.htm> Pictures</a>"\
+"</p>" \
+"<hr><p>" \
+> genindex.htm
+(echo "<a name= 1 ><p><font size=+4> <b> Generation 1</font></b></a>
+<a name= 2 ><p><font size=+4> <b> Generation 2</font></b></a>
+<a name= 3 ><p><font size=+4> <b> Generation 3</font></b></a>
+<a name= 4 ><p><font size=+4> <b> Generation 4</font></b></a>
+<a name= 5 ><p><font size=+4> <b> Generation 5</font></b></a>
+<a name= 6 ><p><font size=+4> <b> Generation 6</font></b></a>
+<a name= 7 ><p><font size=+4> <b> Generation 7</font></b></a>
+<a name= 8 ><p><font size=+4> <b> Generation 8</font></b></a>
+<a name= 9 ><p><font size=+4> <b> Generation 9</font></b></a>
+<a name= 10 ><p><font size=+4> <b> Generation 10</font></b></a>
+<a name= 11 ><p><font size=+4> <b> Generation 11</font></b></a>
+<a name= 12 ><p><font size=+4> <b> Generation 12</font></b></a>
+<a name= 13 ><p><font size=+4> <b> Generation 13</font></b></a>
+<a name= 14 ><p><font size=+4> <b> Generation 14</font></b></a>
+<a name= 15 ><p><font size=+4> <b> Generation 15</font></b></a>
+" &&
+generate_genindex ) | sort -u | sort -k3 -n >> genindex.htm
+echo "</body></html>" >> genindex.htm
+
+extraindex

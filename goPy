@@ -1,0 +1,68 @@
+PATH=".;$PATH"
+rm -f *index.htm
+rm -f */[0-9].htm
+rm -f */[0-9][0-9].htm
+rm -f */[0-9][0-9][0-9].htm
+
+wc -l bishops.txt cooke.txt green.txt hooper.txt kelber.txt mahoney.txt marsh.txt sheridan.txt berry.txt
+
+python3 htmlbldr.py bishops.txt B >> bindex.htm
+python3 htmlbldr.py cooke.txt C >> cindex.htm
+python3 htmlbldr.py green.txt G >> gindex.htm
+python3 htmlbldr.py hooper.txt H >> hindex.htm
+python3 htmlbldr.py kelber.txt K >> kindex.htm
+python3 htmlbldr.py mahoney.txt M >> mindex.htm
+python3 htmlbldr.py marsh.txt N >> nindex.htm
+python3 htmlbldr.py sheridan.txt S >> sindex.htm
+python3 htmlbldr.py berry.txt Y >> yindex.htm
+
+ls -l *index.htm
+echo "Check Unables!"
+
+echo "<html><title> By Name</title><body>\n" \
+"<center>\n <image src=mysyms/rellogo.jpg border=0 width=75 align=center> </center>" \
+"<font size=+4>\n" \
+"<hr>" \
+"<a href=index.htm#A> A</a>\n" \
+"<a href=index.htm#B> B</a>\n" \
+"<a href=index.htm#C> C</a>\n" \
+"<a href=index.htm#D> D</a>\n" \
+"<a href=index.htm#E> E</a>\n" \
+"<a href=index.htm#F> F</a>\n" \
+"<a href=index.htm#G> G</a>\n" \
+"<a href=index.htm#H> H</a>\n" \
+"<a href=index.htm#I> I</a>\n" \
+"<a href=index.htm#J> J</a>\n" \
+"<a href=index.htm#K> K</a>\n" \
+"<a href=index.htm#L> L</a>\n" \
+"<a href=index.htm#M> M</a>\n" \
+"<a href=index.htm#N> N</a>\n" \
+"<a href=index.htm#O> O</a>\n" \
+"<a href=index.htm#P> P</a>\n" \
+"<a href=index.htm#Q> Q</a>\n" \
+"<a href=index.htm#R> R</a>\n" \
+"<a href=index.htm#S> S</a>\n" \
+"<a href=index.htm#T> T</a>\n" \
+"<a href=index.htm#U> U</a>\n" \
+"<a href=index.htm#V> V</a>\n" \
+"<a href=index.htm#W> W</a>\n" \
+"<a href=index.htm#X> X</a>\n" \
+"<a href=index.htm#Y> Y</a>\n" \
+"<a href=index.htm#Z> Z</a>\n" \
+"</font>\n" \
+"<p align=center>" \
+" <a href=dobindex.htm> Birthdays</a>\n"\
+" <a href=genindex.htm> Generations</a>\n"\
+"<br>" \
+" <a href=hisindex.htm> Histories</a>\n"\
+" <a href=stoindex.htm> Stories</a>\n"\
+" <a href=picindex.htm> Pictures</a>\n"\
+"</p>" \
+"<hr><p>" \
+> index.htm
+
+cat [a-z]index.htm | grep -v Unable | sort -u | sort -k 4 >> index.htm
+echo "</body></html>" >> index.htm
+
+goindexPy
+
